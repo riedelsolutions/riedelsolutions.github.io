@@ -5,6 +5,7 @@ body{
 p{
 	font-family: "Courier New", Courier, monospace;
 	color: #f2f2f2;
+	font-size: 18px;
 }
 
 div{
@@ -17,7 +18,10 @@ div{
 	max-width: 800px;
 	max-height: 400px;
 	padding: 15px;
+}
 
+a{
+	color: inherit;
 }
 
 a:visited{
